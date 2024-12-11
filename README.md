@@ -29,6 +29,8 @@ The analysis is performed on a dataset named `weatherdata.csv`. This file contai
 - `info()`  
   - Provides a summary of the dataframe, including data types, non-null values, and memory usage.  
 
+---
+
 ### Data Characteristics  
 - `dtypes`  
   - Displays the data type of each column.  
